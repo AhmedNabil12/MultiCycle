@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/PcAdder.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/PcAdder.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/PcAdder.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/PcAdder.syr" 
+vhdtdtfi -prj ProjectWeek1 -o "D:/Computer Arche Lab/ProjectWeek1/PcAdder.vhi" -module PcAdder -template D:/is/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work PcAdder.vhd 

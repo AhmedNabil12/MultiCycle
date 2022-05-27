@@ -1,0 +1,16 @@
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/Register_File.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/Register_File.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/Register_File.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/Register_File.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/Register_File.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/Register_File.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/Register_File.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/Register_File.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/Register_File.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/Register_File.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/Register_File.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/Register_File.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/Register_File.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/Register_File.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/Register_File.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/Register_File.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/Register_File.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/Register_File.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/Register_File.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/Register_File.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/Register_File.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/Register_File.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/Register_File.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/Register_File.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/Register_File.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/Register_File.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/Register_File.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/Register_File.syr" 
+vhdtdtfi -prj ProjectWeek1 -o "D:/Computer Arche Lab/ProjectWeek1/Register_File.vhi" -module Register_File -template D:/is/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Register_File.vhd 
+vhdtdtfi -prj ProjectWeek1 -o "D:/Computer Arche Lab/ProjectWeek1/Register_File.vhi" -module Register_File -template D:/is/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Register_File.vhd 

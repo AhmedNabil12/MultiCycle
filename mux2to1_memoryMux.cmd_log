@@ -1,0 +1,1 @@
+vhdtdtfi -prj ProjectWeek1 -o "D:/Computer Arche Lab/ProjectWeek1/mux2to1_memoryMux.vhi" -module mux2to1_memoryMux -template D:/is/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work mux2to1_memoryMux.vhd 
