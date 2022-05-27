@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/ControlUnit.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/ControlUnit.syr" 
+vhdtdtfi -prj ProjectWeek1 -o "D:/Computer Arche Lab/ProjectWeek1/ControlUnit.vhi" -module ControlUnit -template D:/is/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ControlUnit.vhd 

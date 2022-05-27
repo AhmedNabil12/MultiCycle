@@ -1,0 +1,6 @@
+vhdtdtfi -prj ProjectWeek1 -o "D:/Computer Arche Lab/ProjectWeek1/MIPS.vhi" -module MIPS -template D:/is/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work MIPS.vhd 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/MIPS.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/MIPS.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/MIPS.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/MIPS.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/MIPS.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/MIPS.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/MIPS.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/MIPS.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/MIPS.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/MIPS.syr" 

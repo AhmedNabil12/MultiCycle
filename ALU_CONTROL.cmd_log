@@ -1,0 +1,8 @@
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/ALU_CONTROL.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/ALU_CONTROL.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/ALU_CONTROL.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/ALU_CONTROL.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/ALU_CONTROL.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/ALU_CONTROL.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/ALU_CONTROL.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/ALU_CONTROL.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/ALU_CONTROL.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/ALU_CONTROL.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/ALU_CONTROL.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/ALU_CONTROL.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/ALU_CONTROL.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/ALU_CONTROL.syr" 
+vhdtdtfi -prj ProjectWeek1 -o "D:/Computer Arche Lab/ProjectWeek1/ALU_CONTROL.vhi" -module ALU_CONTROL -template D:/is/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ALU_CONTROL.vhd 

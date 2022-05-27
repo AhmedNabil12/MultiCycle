@@ -1,0 +1,49 @@
+Running: D:\is\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o D:/Computer Arche Lab/ProjectWeek1/MIPS_isim_beh.exe -prj D:/Computer Arche Lab/ProjectWeek1/MIPS_beh.prj work.MIPS 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/Computer Arche Lab/ProjectWeek1/SignExtend.vhd" into library work
+Parsing VHDL file "D:/Computer Arche Lab/ProjectWeek1/ShiftLeft2.vhd" into library work
+Parsing VHDL file "D:/Computer Arche Lab/ProjectWeek1/Register_File.vhd" into library work
+Parsing VHDL file "D:/Computer Arche Lab/ProjectWeek1/PcMux2to1.vhd" into library work
+Parsing VHDL file "D:/Computer Arche Lab/ProjectWeek1/PcAdder2.vhd" into library work
+Parsing VHDL file "D:/Computer Arche Lab/ProjectWeek1/PcAdder.vhd" into library work
+Parsing VHDL file "D:/Computer Arche Lab/ProjectWeek1/Pc.vhd" into library work
+Parsing VHDL file "D:/Computer Arche Lab/ProjectWeek1/mux2to2FORreg.vhd" into library work
+Parsing VHDL file "D:/Computer Arche Lab/ProjectWeek1/mux2to1_memoryMux.vhd" into library work
+Parsing VHDL file "D:/Computer Arche Lab/ProjectWeek1/InstructionMemory.vhd" into library work
+Parsing VHDL file "D:/Computer Arche Lab/ProjectWeek1/Data_Memory.vhd" into library work
+Parsing VHDL file "D:/Computer Arche Lab/ProjectWeek1/ControlUnit.vhd" into library work
+Parsing VHDL file "D:/Computer Arche Lab/ProjectWeek1/ALU_CONTROL.vhd" into library work
+Parsing VHDL file "D:/Computer Arche Lab/ProjectWeek1/ALUMUX2to1.vhd" into library work
+Parsing VHDL file "D:/Computer Arche Lab/ProjectWeek1/ALU.vhd" into library work
+Parsing VHDL file "D:/Computer Arche Lab/ProjectWeek1/MIPS.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package numeric_std
+Compiling architecture behavioral of entity mux2to1_memoryMux [mux2to1_memorymux_default]
+Compiling architecture behavioral of entity mux2to2FORreg [mux2to2forreg_default]
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavioral of entity ALU_CONTROL [alu_control_default]
+Compiling architecture behavioral of entity PcAdder2 [pcadder2_default]
+Compiling architecture behavioral of entity Pc [pc_default]
+Compiling architecture behavioral of entity InstructionMemory [instructionmemory_default]
+Compiling architecture behavioral of entity PcAdder [pcadder_default]
+Compiling architecture behavioral of entity ShiftLeft2 [shiftleft2_default]
+Compiling architecture behavioral of entity SignExtend [signextend_default]
+Compiling architecture behavioral of entity ControlUnit [controlunit_default]
+Compiling architecture behavioral of entity ALUMUX2to1 [alumux2to1_default]
+Compiling architecture behavioral of entity PcMux2to1 [pcmux2to1_default]
+Compiling architecture behavioral of entity Data_Memory [data_memory_default]
+Compiling architecture behavioral of entity Register_File [register_file_default]
+Compiling architecture behavioral of entity mips
+Time Resolution for simulation is 1ps.
+Compiled 36 VHDL Units
+Built simulation executable D:/Computer Arche Lab/ProjectWeek1/MIPS_isim_beh.exe
+Fuse Memory Usage: 38024 KB
+Fuse CPU Usage: 843 ms

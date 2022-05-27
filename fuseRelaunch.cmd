@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Computer Arche Lab/ProjectWeek1/MIPS_isim_beh.exe" -prj "D:/Computer Arche Lab/ProjectWeek1/MIPS_beh.prj" "work.MIPS" 

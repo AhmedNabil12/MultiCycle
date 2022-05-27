@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/InstructionMemory.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/InstructionMemory.syr" 
+vhdtdtfi -prj ProjectWeek1 -o "D:/Computer Arche Lab/ProjectWeek1/InstructionMemory.vhi" -module InstructionMemory -template D:/is/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work InstructionMemory.vhd 

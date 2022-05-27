@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/ALUMUX2to1.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/ALUMUX2to1.syr" 
+vhdtdtfi -prj ProjectWeek1 -o "D:/Computer Arche Lab/ProjectWeek1/ALUMUX2to1.vhi" -module ALUMUX2to1 -template D:/is/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ALUMUX2to1.vhd 

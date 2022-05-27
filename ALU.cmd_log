@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/ALU.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/ALU.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/ALU.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/ALU.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/ALU.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/ALU.syr" 
+vhdtdtfi -prj ProjectWeek1 -o "D:/Computer Arche Lab/ProjectWeek1/ALU.vhi" -module ALU -template D:/is/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ALU.vhd 

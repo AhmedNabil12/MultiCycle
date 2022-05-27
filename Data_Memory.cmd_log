@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/Data_Memory.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/Data_Memory.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/Data_Memory.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/Data_Memory.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/Data_Memory.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/Data_Memory.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/Data_Memory.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/Data_Memory.syr" 
+xst -intstyle ise -ifn "D:/Computer Arche Lab/ProjectWeek1/Data_Memory.xst" -ofn "D:/Computer Arche Lab/ProjectWeek1/Data_Memory.syr" 
+vhdtdtfi -prj ProjectWeek1 -o "D:/Computer Arche Lab/ProjectWeek1/Data_Memory.vhi" -module Data_Memory -template D:/is/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Data_Memory.vhd 
